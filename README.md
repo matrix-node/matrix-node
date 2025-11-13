@@ -18,8 +18,6 @@ What I’m Best At:
   
   - Linux administration (shell workflows, configs, debugging) 🛠️
   
-  - Technical writing & mentoring
-  
   - Problem-solving with a systems mindset 🔍
   
   - Currently Learning
@@ -27,8 +25,6 @@ What I’m Best At:
   - Full-stack engineering foundations
   
   - Advanced frontend architectures
-  
-  - Scalable system design and cloud technologies ☁️
 
 Fun Bits
 

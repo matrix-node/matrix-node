@@ -32,5 +32,5 @@ I love:
  - exploring new tech
  - sharing knowledge
  - meeting new folks in the dev world
- - Vidoe and Board Games 
+ - Video and Board Games 
  - watching good films when I’m not grinding code 🎬

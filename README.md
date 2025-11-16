@@ -6,7 +6,7 @@ What I Do:
 
  - Build responsive, accessible, and fast frontend applications 
 
- - Manage and optimize Linux systems (Arch btw 🐧)
+ - Manage and optimize Linux systems (I use Arch btw 🐧)
 
  - Automate workflows, improve developer environments, and document systems 🧩
 

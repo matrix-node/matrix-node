@@ -14,7 +14,7 @@ What I Do:
 
 What I’m Best At:
 
-  - JavaScript / React / Next.js
+  - JavaScript / React / Next.js / SEO
   
   - Linux administration (shell workflows, configs, debugging) 🛠️
   

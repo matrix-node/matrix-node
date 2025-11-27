@@ -30,7 +30,8 @@ Fun Bits
 
 I love:
  - exploring new tech
+ - Ricing arch + hyprland
  - sharing knowledge
  - meeting new folks in the dev world
  - Video and Board Games 
- - watching good films when I’m not grinding code
+ - watching good films when I’m not coding

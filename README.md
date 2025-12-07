@@ -29,6 +29,7 @@ What I’m Best At:
 Fun Bits
 
 I love:
+ - Traveling
  - exploring new tech
  - Ricing arch + hyprland
  - sharing knowledge

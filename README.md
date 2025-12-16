@@ -14,7 +14,7 @@ What I Do:
 
 What I’m Best At:
 
-  - JavaScript / React / Next.js / SEO / Docker
+  - JavaScript / React / Next.js / SEO / Docker / K8's
   
   - Linux administration (shell workflows, configs, debugging) 🛠️
   

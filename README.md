@@ -31,6 +31,7 @@ Fun Bits
 I love:
  - Traveling
  - exploring new tech
+ - Setting up new linux and windows systems
  - Ricing arch + hyprland
  - sharing knowledge
  - meeting new folks in the dev world

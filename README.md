@@ -35,5 +35,5 @@ I love:
  - Ricing arch + hyprland
  - sharing knowledge
  - meeting new folks in the dev world
- - Video and Board Games 
+ - Video and Board Games
  - watching good films when I’m not coding

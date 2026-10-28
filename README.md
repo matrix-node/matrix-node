@@ -1,6 +1,6 @@
 Hi, I’m Richard (Rytchie/MatrixNode) 👨🏽‍💻
 
-I’m a Web Developer, Linux System Administrator, and Computer Science student passionate about building clean, efficient systems and modern frontend experiences. I’m self-taught, curious, and always leveling up my engineering craft 
+I’m a Linux System Administrator, Web Developer and Computer Science student passionate about building clean, efficient systems and modern frontend experiences. I’m self-taught, curious, and always leveling up my engineering craft 
 
 What I Do:
 
